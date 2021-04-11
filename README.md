@@ -14,5 +14,5 @@ Hz. Peygamber’in vefatından sonra İslâm dini, Kitap ve Sünnet’in ortaya 
 İmâm Nevevî’nin Riyâzü’s-sâlihîn’i necip milletimizin din kültüründe öncelikli yeri olan hadis kitablarının başında gelir.
 https://HadisKitaplari.com olarak Riyazus-Salihin kitabının 1900 hadisini web sitemize eklemiş bulunmakla birlikte, Github üzerinden de gelecek nesiller için bir açık kaynak projesi olmasını ve sürekli olarak ulaşılabilir kalmasını amaçlıyoruz.
 
-# SahihHadis.com
+# Hadiskitaplari.com
 https://HadisKitaplari.com/riyazus-salihin adresinden hadislere erişebilirsiniz ve hadisler içinde rahatça arama yapabilirsiniz.
